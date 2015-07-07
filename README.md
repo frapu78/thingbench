@@ -68,4 +68,4 @@ You can easily integrate the corresponding HTTP calls in any IoT framework you l
 * Add the "models", "pics" folder as resources (Idea) or source (Netbeans)
 * Select "thingbench.Thingbench" as main class for Thingbench
 
-Start and interacting with the Things
+Start interacting with the Things!
