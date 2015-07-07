@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<model xmlns="http://frapu.net/xsd/ProcessEditor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1692623602" name="Demo" type="thingbench.ThingsModel.ThingsModel" xsi:schemaLocation="http://frapu.net/xsd/ProcessEditor http://frapu.net/xsd/ProcessEditor.xsd">
+    <nodes>
+        <node>
+            <property name="shadow" value="0"/>
+            <property name="color_background" value="-3355648"/>
+            <property name="x" value="347"/>
+            <property name="width" value="100"/>
+            <property name="y" value="135"/>
+            <property name="text" value="Lamp 1"/>
+            <property name="stereotype" value=""/>
+            <property name="power" value="OFF"/>
+            <property name="#id" value="1253071236"/>
+            <property name="#type" value="thingbench.ThingsModel.Lamp"/>
+            <property name="height" value="140"/>
+        </node>
+        <node>
+            <property name="image" value=""/>
+            <property name="shadow" value="0"/>
+            <property name="color_background" value="-1"/>
+            <property name="x" value="492"/>
+            <property name="width" value="36"/>
+            <property name="y" value="124"/>
+            <property name="text" value=""/>
+            <property name="stereotype" value=""/>
+            <property name="#id" value="1550999049"/>
+            <property name="#type" value="thingbench.ThingsModel.Artifact"/>
+            <property name="height" value="128"/>
+        </node>
+        <node>
+            <property name="image" value=""/>
+            <property name="shadow" value="0"/>
+            <property name="color_background" value="-1"/>
+            <property name="x" value="516"/>
+            <property name="width" value="36"/>
+            <property name="y" value="144"/>
+            <property name="text" value=""/>
+            <property name="stereotype" value=""/>
+            <property name="#id" value="1906187103"/>
+            <property name="#type" value="thingbench.ThingsModel.Artifact"/>
+            <property name="height" value="128"/>
+        </node>
+        <node>
+            <property name="image" value=""/>
+            <property name="shadow" value="0"/>
+            <property name="color_background" value="-1"/>
+            <property name="x" value="538"/>
+            <property name="width" value="36"/>
+            <property name="y" value="170"/>
+            <property name="text" value=""/>
+            <property name="stereotype" value=""/>
+            <property name="#id" value="1901887672"/>
+            <property name="#type" value="thingbench.ThingsModel.Artifact"/>
+            <property name="height" value="128"/>
+        </node>
+    </nodes>
+    <edges/>
+    <properties>
+        <property name="author" value="Frank Puhlmann"/>
+        <property name="name" value="Demo"/>
+        <property name="#uri" value=""/>
+        <property name="comment" value="Default demo model"/>
+        <property name="#creationDate" value="13. Februar 2014 07:59:21 MEZ"/>
+    </properties>
+</model>
