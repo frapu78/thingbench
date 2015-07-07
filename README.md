@@ -57,7 +57,7 @@ with the body
 </thing>
 ```
 
-You can easily integrate the corresponding HTTP calls in any IoT framework you like. If you need anything else then a simple lamp, please feel free to browse the code and add your own virtual devices. The Thingbench is based on Processeditor (http://frapu.de/code/processeditor/index.html), which makes it easy to create your own devices with a visual representation.
+You can easily integrate the corresponding HTTP calls in any IoT framework you like. If you need anything else than a simple lamp, please feel free to browse the code and add your own virtual devices. The Thingbench is based on Processeditor (http://frapu.de/code/processeditor/index.html), which makes it easy to create your own devices with a visual representation.
 
 ## Java Libraries
 * Processeditor incl. depending libraries, see http://github.com/frapu78/processeditor
